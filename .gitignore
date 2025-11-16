@@ -1,0 +1,14 @@
+__pycache__/
+*.pt
+*.pth
+*.zip
+*.tar
+*.mp4
+*.rar
+*.jpg
+*.png
+*.jpeg
+dataset/
+runs/
+vena_dataset/
+backup/
